@@ -3,7 +3,7 @@
 I'm currently working as Lab Technican at Experis while being outsourced to <b>Intel</b>.
 
 ### My Skills
-![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,bash,html,css,js,php,mysql)
+![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,bash,html,css,js,php,mysql,postman)
 
 ### My Tools
 

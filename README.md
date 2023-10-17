@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm currently working as Lab Technican at Experis while being outsourced to <b>Intel</b>.
+In my spare time, I am doing courses related to application testing in order to be able to steer towards QA / Tester in the future.
 
 ### My Skills
 ![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,bash,html,css,js,php,mysql,postman)

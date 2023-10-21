@@ -6,6 +6,9 @@ In my spare time, I am doing courses related to application testing in order to 
 Courses which i have ended or i am still working at:<br>
 [Practical Software Testing](https://www.udemy.com/course/selenium-cucumber-integration/)
 
+My projects related to it: <br>
+[Postman API testing](https://github.com/Kosiem/API-Testing-JSONPlaceholder/tree/main)
+
 ### My Skills
 ![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,bash,html,css,js,php,mysql,postman)
 

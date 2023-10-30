@@ -11,6 +11,7 @@ Courses which i have ended or i am still working at:<br>
 
 My projects related to it: <br>
 [Postman API testing](https://github.com/Kosiem/API-Testing-JSONPlaceholder/tree/main)
+[Practicing Automation with Selenium](https://github.com/Kosiem/Social-Media-Logger)
 
 ### My Skills
 ![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,bash,html,css,js,php,mysql,postman)

@@ -10,7 +10,7 @@ Courses which i have ended or i am still working at:<br>
 [Practical Software Testing](https://www.udemy.com/course/selenium-cucumber-integration/)
 
 My projects related to it: <br>
-[Postman API testing](https://github.com/Kosiem/API-Testing-JSONPlaceholder/tree/main)
+[Postman API testing](https://github.com/Kosiem/API-Testing-JSONPlaceholder/tree/main)<br>
 [Practicing Automation with Selenium](https://github.com/Kosiem/Social-Media-Logger)
 
 ### My Skills

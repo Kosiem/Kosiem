@@ -7,11 +7,11 @@ I also have knowledge in programming in languages such as C, C++, JAVA, Python, 
 My current job is repairing, setting up and configuring setups for Audio tests. In my free time, I look for ways to systematise my work and create apps, like [RaritanKiller](https://github.com/Kosiem/RaritanKiller) or [J-SSH](https://github.com/Kosiem/J-SSH-app).
 
 Courses which i have ended or i am still working at:<br>
-[Practical Software Testing - Python, Selenium, Pytest, Jenkins](https://www.udemy.com/course/selenium-cucumber-integration/)
+[Practical Software Testing - Python, Selenium, Pytest, Jenkins](https://www.udemy.com/course/selenium-cucumber-integration/) <br>
 [Selenium WebDriver with Java -Basics to Advanced+Frameworks](https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/)
 
 My projects related to it: <br>
-<b> Python : </b>
+<b> Python : </b> <br>
 [Postman API testing](https://github.com/Kosiem/API-Testing-JSONPlaceholder/tree/main)<br>
 [Practicing Automation with Selenium - Social Media Logger](https://github.com/Kosiem/Social-Media-Logger)<br>
 [Use of Pytest + Selenium - Tests for ToDo List Web App](https://github.com/Kosiem/ToDo-App-Tests)

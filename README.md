@@ -8,8 +8,10 @@ My current job is repairing, setting up and configuring setups for Audio tests. 
 
 Courses which i have ended or i am still working at:<br>
 [Practical Software Testing - Python, Selenium, Pytest, Jenkins](https://www.udemy.com/course/selenium-cucumber-integration/)
+[Selenium WebDriver with Java -Basics to Advanced+Frameworks](https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/)
 
 My projects related to it: <br>
+<b> Python : </b>
 [Postman API testing](https://github.com/Kosiem/API-Testing-JSONPlaceholder/tree/main)<br>
 [Practicing Automation with Selenium - Social Media Logger](https://github.com/Kosiem/Social-Media-Logger)<br>
 [Use of Pytest + Selenium - Tests for ToDo List Web App](https://github.com/Kosiem/ToDo-App-Tests)

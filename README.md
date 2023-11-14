@@ -15,7 +15,7 @@ My projects related to it: <br>
 [Postman API testing](https://github.com/Kosiem/API-Testing-JSONPlaceholder/tree/main)<br>
 [Practicing Automation with Selenium - Social Media Logger](https://github.com/Kosiem/Social-Media-Logger)<br>
 [Use of Pytest + Selenium - Tests for ToDo List Web App](https://github.com/Kosiem/ToDo-App-Tests)<br>
-[Tests for the-internet.herokuapp](https://github.com/Kosiem/TheInternet-Tests) - In progress
+[Tests for the-internet.herokuapp](https://github.com/Kosiem/TheInternet-Tests) - In progress <br><br>
 <b> Java : </b> <br>
 
 ### My Skills

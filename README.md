@@ -17,7 +17,7 @@ My projects related to it: <br>
 [Use of Pytest + Selenium - Tests for ToDo List Web App](https://github.com/Kosiem/ToDo-App-Tests)<br>
 [Tests for the-internet.herokuapp - Python, Selenium, Config Files, Another Libraries(os, openpyxl, request), Jenkins Allure Report)](https://github.com/Kosiem/TheInternet-Tests)<br>
 [Tests for saucedemo.com - Python, Selenium, Gherkin, Behave, Jenkins Allure Report](https://github.com/Kosiem/Behave-Testing-BDD)
-<h2> Java : </h2> <br>
+
 
 ### My Skills
 ![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,bash,html,css,js,php,mysql,postman)

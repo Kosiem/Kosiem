@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm currently working as Lab Technican at Experis while being outsourced to <b>Intel</b>.
+I'm currently working as Intern FW QA Validation at <b>Intel</b>.
 In my spare time, I am doing courses related to application testing.
-I also have knowledge(basic to intermediate) in programming in languages such as C, C++, JAVA, Python, and I'm no stranger to web stack. All this I had in technical school, and now I am extending it with the knowledge I gain during my studies at the Polish-Japanese Academy of Information Technology.
+I also have knowledge in programming in languages such as C, C++, JAVA, Python, and I'm no stranger to web stack.
 
-My current job is repairing, setting up and configuring setups for Audio tests. In my free time, I look for ways to systematise my work and create apps, like [RaritanKiller](https://github.com/Kosiem/RaritanKiller) or [J-SSH](https://github.com/Kosiem/J-SSH-app).
+My current job is validation of audio driver, creating test scenarios/cases and maintaing CI enviromnent. In my free time, I look for ways to systematise my work and create apps, like [RaritanKiller](https://github.com/Kosiem/RaritanKiller) or [J-SSH](https://github.com/Kosiem/J-SSH-app).
 
 Courses which i have ended or i am still working at:<br>
 [Practical Software Testing - Python, Selenium, Pytest, Jenkins, Gherkin, Behave](https://www.udemy.com/course/selenium-cucumber-integration/) :heavy_check_mark: <br> 

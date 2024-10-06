@@ -8,7 +8,7 @@ My current job is validation of audio driver, creating test scenarios/cases and 
 
 Courses which i have ended or i am still working at:<br>
 [Practical Software Testing - Python, Selenium, Pytest, Jenkins, Gherkin, Behave](https://www.udemy.com/course/selenium-cucumber-integration/) :heavy_check_mark: <br> 
-[Selenium WebDriver with Java -Basics to Advanced+Frameworks - Java, Selenium, TestNG, Cucumber, Maven, Ant, AutoIT, Bugzilla ](https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/) In progress...
+[Selenium WebDriver with Java -Basics to Advanced+Frameworks - Java, Selenium, TestNG, Cucumber, Maven, Ant, AutoIT, Bugzilla ](https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/) :heavy_check_mark: <br> 
 
 My projects related to it: <br>
  Python :<br>

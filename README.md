@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm currently working as Intern FW QA Validation at <b>Intel</b>.
+I'm currently working as Python Developer Tester at <b>Solidigm</b>.
 In my spare time, I am doing courses related to application testing.
 I also have knowledge in programming in languages such as C, C++, JAVA, Python, and I'm no stranger to web stack.
 
-My current job is validation of audio driver, creating test scenarios/cases and maintaing CI enviromnent. In my free time, I look for ways to systematise my work and create apps, like [RaritanKiller](https://github.com/Kosiem/RaritanKiller) or [J-SSH](https://github.com/Kosiem/J-SSH-app).
+I am a student in the 6th semester of the <b>Polish-Japanese Academy of Computer Technology </b>, with a specialization - artificial intelligence, where I continue to develop and expand my tools and range of skills (https://github.com/Patryk-Kosmider?tab=repositories)
+
+My current job is validation of disk drives, creating test scenarios/cases, maintaing CI enviromnent and reporting/fixing/validating bugs. In my free time, I look for ways to systematise my work and create apps, like [RaritanKiller](https://github.com/Kosiem/RaritanKiller) or [J-SSH](https://github.com/Kosiem/J-SSH-app).
 
 Courses which i have ended or i am still working at:<br>
 [Practical Software Testing - Python, Selenium, Pytest, Jenkins, Gherkin, Behave](https://www.udemy.com/course/selenium-cucumber-integration/) :heavy_check_mark: <br> 
@@ -20,7 +22,7 @@ My projects related to it: <br>
 
 
 ### My Skills
-![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,bash,html,css,js,php,mysql,postman)
+![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,bash,html,css,js,php,mysql,postman,fastapi,git,idea,linux,r,ubuntu,windows)
 
 ### My Tools
 

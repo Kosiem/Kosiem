@@ -1,14 +1,17 @@
 ### Hi there 👋
 
 I'm currently working as Python Developer Tester at <b>Solidigm</b>.
-In my spare time, I am doing courses related to application testing.
-I also have knowledge in programming in languages such as C, C++, JAVA, Python, and I'm no stranger to web stack.
+Focusing on SSD/NVME Firmware Automated Testing, to ensure quality and compliance with official NVME and OCP specifications.
+I also have knowledge in programming in languages such as C, C++, JAVA, Python.
 
-I am a student in the 6th semester of the <b>Polish-Japanese Academy of Computer Technology </b>, with a specialization - artificial intelligence, where I continue to develop and expand my tools and range of skills (https://github.com/Patryk-Kosmider?tab=repositories)
+Finished Bachelor of Engineering at <b>Polish-Japanese Academy of Computer Technology </b>, with a specialisation - artificial intelligence, where I developed and expanded my tools and range of skills (https://github.com/Patryk-Kosmider?tab=repositories) <br>
+My engineering thesis was DCIM software for huge R&D sites - (https://github.com/Kosiem/labbyn)<br>
+
+Currently pursuing **Master of Engineering at Gdynia Maritime University** also with artificial intelligence specialisation.
 
 My current job is validation of disk drives, creating test scenarios/cases, maintaing CI enviromnent and reporting/fixing/validating bugs. In my free time, I look for ways to systematise my work and create apps, like [RaritanKiller](https://github.com/Kosiem/RaritanKiller) or [J-SSH](https://github.com/Kosiem/J-SSH-app).
 
-Courses which i have ended or i am still working at:<br>
+Courses which i have finished:
 [Practical Software Testing - Python, Selenium, Pytest, Jenkins, Gherkin, Behave](https://www.udemy.com/course/selenium-cucumber-integration/) :heavy_check_mark: <br> 
 [Selenium WebDriver with Java -Basics to Advanced+Frameworks - Java, Selenium, TestNG, Cucumber, Maven, Ant, AutoIT, Bugzilla ](https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/) :heavy_check_mark: <br> 
 
@@ -33,16 +36,3 @@ My projects related to it: <br>
 ![IntelliJ Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 <!--
-**Kosiem/Kosiem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
